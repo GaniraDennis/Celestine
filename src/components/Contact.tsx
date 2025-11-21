@@ -103,16 +103,13 @@ export default function Contact() {
               <div>
                 <h4 className="text-lg font-semibold text-gray-100 mb-4">Connect on Social Media</h4>
                 <div className="flex gap-4 flex-wrap">
-                  <a href="#" className="w-12 h-12 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-xl flex items-center justify-center hover:gold-shadow-lg transform hover:scale-110 transition-all duration-300 text-gray-950">
+                  <a href="https://www.instagram.com/itss.auma?igsh=MXYxYmp3eXVjNzNmNA%3D%3D&utm_source=qr" className="w-12 h-12 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-xl flex items-center justify-center hover:gold-shadow-lg transform hover:scale-110 transition-all duration-300 text-gray-950">
                     <i className="fab fa-instagram text-xl"></i>
                   </a>
-                  <a href="#" className="w-12 h-12 bg-gradient-to-br from-blue-400 to-blue-600 rounded-xl flex items-center justify-center hover:shadow-lg hover:shadow-blue-400/50 transform hover:scale-110 transition-all duration-300 text-white">
-                    <i className="fab fa-facebook text-xl"></i>
-                  </a>
-                  <a href="#" className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-700 rounded-xl flex items-center justify-center hover:shadow-lg hover:shadow-blue-500/50 transform hover:scale-110 transition-all duration-300 text-white">
+                  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BANJfe8LJSIG0Ce2VmMuAZA%3D%3D " className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-700 rounded-xl flex items-center justify-center hover:shadow-lg hover:shadow-blue-500/50 transform hover:scale-110 transition-all duration-300 text-white">
                     <i className="fab fa-linkedin text-xl"></i>
                   </a>
-                  <a href="#" className="w-12 h-12 bg-gradient-to-br from-black to-gray-800 rounded-xl flex items-center justify-center hover:shadow-lg transform hover:scale-110 transition-all duration-300 text-white border border-gray-600">
+                  <a href="https://www.tiktok.com/@itss.auma?_r=1&_t=ZM-91a72LwfRbU" className="w-12 h-12 bg-gradient-to-br from-black to-gray-800 rounded-xl flex items-center justify-center hover:shadow-lg transform hover:scale-110 transition-all duration-300 text-white border border-gray-600">
                     <i className="fab fa-tiktok text-xl"></i>
                   </a>
                 </div>
