@@ -36,7 +36,7 @@ export default function Hero() {
         </h1>
 
         <p className={`text-xl md:text-2xl text-yellow-300 mb-6 font-light ${isVisible ? 'animate-fade-in-up' : ''}`} style={{ animationDelay: '0.4s' }}>
-          Social Media Manager | Content Creator | Digital Storyteller
+          Social Media Manager | Content Creator | Brand Influencer
         </p>
 
         <div className={`flex flex-wrap justify-center gap-4 md:gap-6 text-gray-300 mb-8 ${isVisible ? 'animate-fade-in-up' : ''}`} style={{ animationDelay: '0.5s' }}>
