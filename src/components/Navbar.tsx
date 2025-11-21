@@ -36,7 +36,7 @@ export default function Navbar() {
               alt="Logo"
               className="h-12 w-12 animate-float transition-transform group-hover:scale-110"
             />
-            <span className="ml-3 text-xl font-bold gold-gradient hidden sm:inline">CA</span>
+            <span className="ml-3 text-xl font-bold gold-gradient hidden sm:inline"></span>
           </div>
 
           <div className="hidden md:flex items-center gap-1">
